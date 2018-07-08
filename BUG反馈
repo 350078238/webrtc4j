@@ -1,0 +1,10 @@
+朋友 我一年跑不起来,JS中的报错很多, 试过了谷歌,火狐都不知道 ,不知道 你是怎么跑起来的, 方便留一下联系方式么?我的QQ 是 350078238
+报错如下
+
+
+[显示/隐藏消息细节。] TypeError: this.socket is null[详细了解] appcontroller.js:430:9
+0.183: ---init--- util.js:58:21
+主线程中同步的 XMLHttpRequest 已不推荐使用，因其对终端用户的用户体验存在负面影响。可访问 http://xhr.spec.whatwg.org/ 详细了解 util.js:99:16
+0.290: init params error ... Status=404, response=<html><body><h1>Resource not found</h1></body></html> util.js:72:21
+0.291: open websocket util.js:58:21
+0.291: init websocket or get ice server error ... this.params_ is null util.js:72:21
